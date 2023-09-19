@@ -1,1 +1,2 @@
-# time_series_forecasting
+# Time Series Forecasting
+In this GitHub project, I have streamlined and improved the analysis of historical drug sales data by addressing missing values and outliers, setting the stage for more advanced analyses. I have also fine-tuned ARIMA and Auto-ARIMA models through optimal hyperparameter selection, enhancing their predictive accuracy. To ensure precise forecasting, I evaluated the performance of these models using MAE, RMSE, and MAPE metrics.
